@@ -1,0 +1,11 @@
+
+
+section article img{ 
+    width: 310px;
+    height : 310px;
+}
+
+article{
+    display:flex;
+    flex-direction:row;
+}
